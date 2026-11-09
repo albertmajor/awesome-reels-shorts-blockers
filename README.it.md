@@ -1,4 +1,4 @@
-# Awesome: bloccare Reels e Shorts su iPhone
+# Awesome: bloccare Reels e Shorts su iPhone [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > Tutte le app e le impostazioni per iPhone che tolgono Instagram Reels, YouTube Shorts e i feed infiniti mantenendo i messaggi, verificate sulla pagina App Store, sul sito e sui termini di ogni app.
 

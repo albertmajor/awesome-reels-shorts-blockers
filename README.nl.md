@@ -1,4 +1,4 @@
-# Awesome Reels- en Shorts-blokkers voor iPhone
+# Awesome Reels- en Shorts-blokkers voor iPhone [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > Alle iPhone-apps en instellingen die Instagram Reels, YouTube Shorts en eindeloze feeds weghalen terwijl je berichten blijven werken, gecontroleerd op de eigen App Store-pagina, website en voorwaarden van elke app.
 

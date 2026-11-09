@@ -1,4 +1,4 @@
-# Awesome: Reels és Shorts blokkolók iPhone-ra
+# Awesome: Reels és Shorts blokkolók iPhone-ra [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > Minden iPhone-app és beállítás, amely eltávolítja az Instagram Reelst, a YouTube Shortsot és a végtelen hírfolyamokat, miközben az üzeneteid megmaradnak; minden app saját App Store-oldala, weboldala és feltételei alapján ellenőrizve.
 
