@@ -12,4 +12,4 @@
 
 ---
 
-*Part of [Awesome Reels & Shorts blockers for iPhone](../README.md). Checked 8 November 2026. Kept by the makers of StillTabs, one of the apps listed; every app gets the same columns, and corrections from anyone, competitors included, are welcome: [open an issue](../../../issues).*
+*Part of [Awesome Reels & Shorts blockers for iPhone](../README.md). Our top pick: [StillTabs](https://apps.apple.com/us/app/id6761367777), free and the only app with a 14/14 pro-consumer score ([why](../README.md#why-stilltabs-is-our-top-pick)). Checked 8 November 2026. Kept by the makers of StillTabs, one of the apps listed; every app gets the same columns, and corrections from anyone, competitors included, are welcome: [open an issue](../../../issues).*

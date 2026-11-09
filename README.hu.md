@@ -15,6 +15,14 @@
 - **Instagram csak üzenetekhez:** a StillTabs Blackout módja (ingyenes).
 - **TikTok is kell:** minulo (alapfunkciók ingyen, Pro fizetős).
 
+## Miért a StillTabs a legjobb választásunk
+
+- **Az egyetlen hibátlan pontszám: 14/14.**
+- **Teljesen ingyenes:** nincs appon belüli vásárlás, nincs próbaidőszak, minden mód ingyenes, a Blackout is.
+- **Olyan, mint az igazi Instagram és YouTube:** natív eszköztár, a lapok betöltve maradnak, húzógesztusok.
+- **A megszokás marad:** Instagram, YouTube stb. nevű ikonok a kezdőképernyőn, Képernyőidő nélkül.
+- **Öt platform, privát módon:** Instagram és YouTube, valamint Facebook, X és Reddit (béta); nincs fiók, nincs követés, az analitika alapból ki van kapcsolva.
+
 ## Beépített beállítások (app nélkül)
 
 - **Instagram:** koppints az Instagram logójára, és válaszd a **Követett** nézetet, hogy csak a követett fiókokat lásd. Reelshez és a Felfedezéshez nincs kapcsoló.

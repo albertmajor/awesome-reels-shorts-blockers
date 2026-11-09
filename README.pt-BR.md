@@ -15,6 +15,14 @@
 - **Instagram só para mensagens:** o modo Blackout do StillTabs (grátis).
 - **Precisa do TikTok também:** minulo (básico grátis, Pro pago).
 
+## Por que o StillTabs é nossa escolha principal
+
+- **A única pontuação perfeita: 14/14.**
+- **Totalmente grátis:** sem compras no app, sem teste, todos os modos grátis, inclusive Blackout.
+- **Parece o Instagram e o YouTube de verdade:** barra nativa, abas sempre carregadas, gestos de deslizar.
+- **O hábito continua:** ícones na tela de início chamados Instagram, YouTube etc., sem Tempo de Uso.
+- **Cinco plataformas, privado:** Instagram e YouTube mais Facebook, X e Reddit (beta); sem conta, sem rastreamento, análises desligadas por padrão.
+
 ## Ajustes nativos (sem app)
 
 - **Instagram:** toque no logo do Instagram e escolha **Seguindo** para ver só quem você segue. Não há opção para Reels ou Explorar.

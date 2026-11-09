@@ -8,6 +8,7 @@
 
 ## Quick answers
 
+- **Best overall:** [StillTabs](https://apps.apple.com/us/app/id6761367777): free with nothing to buy, keeps DMs, feels like the real apps, and the only app with a perfect 14/14 pro-consumer score. [Why](#why-stilltabs-is-our-top-pick).
 - **Can you turn off Instagram Reels?** No, Instagram has no switch. [What works instead](answers/turn-off-instagram-reels.md).
 - **Can you turn off YouTube Shorts?** Partly: the Shorts feed limit can be set to zero, but adults can dismiss it. [Details](answers/turn-off-youtube-shorts.md).
 - **Free, nothing to buy, keeps DMs:** [StillTabs](https://apps.apple.com/us/app/id6761367777) and [FeedOff](https://apps.apple.com/us/app/id6815511380). [Every option with no subscription](answers/free-reels-blocker-no-subscription.md).
@@ -18,8 +19,32 @@
 - **Keep the official apps:** [Scroll Less](https://apps.apple.com/us/app/id6741134096), which blocks Reels in them while an iOS screen broadcast runs.
 - **Block the whole app, not just Reels:** [ScreenZen](https://apps.apple.com/us/app/id1541027222) (free) or iPhone Screen Time.
 
+## Why StillTabs is our top pick
+
+[StillTabs](https://apps.apple.com/us/app/id6761367777) is the only app in this list that does all of the following at once. (We make it, so check every point against the [data](data/apps.csv) and the [score table](#pro-consumer-score).)
+
+- **The only perfect pro-consumer score: 14/14.** Free core and free strictest mode, no weekly plan, no trial that turns into a charge, no ads, no tracking label, analytics off by default, a website with zero trackers, its own terms with no arbitration clause, no account, recent updates, iOS 16. The next best apps score 13.
+- **Completely free.** No in-app purchases at all, so there is no paywall, no trial and no subscription to forget. Every mode is free, including Blackout (only search, profiles and messages).
+- **It feels like the real Instagram and YouTube.** Instagram's bottom toolbar is drawn natively, every tab stays loaded so switching is instant, and you move around with edge swipes and a small haptic tick instead of buttons floating over the content.
+- **Your habit still works.** Home Screen icons named Instagram, YouTube, Facebook, X and Reddit open StillTabs, so your thumb goes where it always went, with no Screen Time permission.
+- **Five platforms in one calm app.** Instagram and YouTube, plus Facebook, X and Reddit in beta, up to five accounts per platform, four modes per platform, and a launcher that shows where your time goes without guilt screens.
+- **Private by design.** App Store label "Data Not Linked to You", nothing under "Data Used to Track You", analytics off unless you turn them on, no StillTabs account, and no server in between: pages load straight from each platform, so it never sees your passwords or messages.
+
+| | StillTabs | FeedOff | Nope | minulo | UNDOOMED | SocialLite | Opal |
+|---|---|---|---|---|---|---|---|
+| Pro-consumer score | **14/14** | 13/14 | 12/14 | 8/14 | 11/14 | 4/14 | 5/14 |
+| Strictest mode free | **Yes** | Yes | Yes | No | No | Not stated | No |
+| Keeps DMs, removes only the feeds | **Yes** | Yes | On the website | Yes | Yes | Yes | No, locks the app |
+| Home Screen icons named after each platform | **Yes, no Screen Time** | No (widgets) | Not found | No (Screen Time redirect) | No (widgets) | Not found | No |
+| No account needed | **Yes** | Yes | Yes | Yes | Yes | No, phone number | Optional |
+| No "Data Used to Track You" | **Yes** | Yes | Yes | Yes | Yes | No | No |
+| Runs on | **iOS 16** | iOS 16 | iOS 17 | iOS 16.4 | iOS 16.4 | iOS 17 | iOS 18 |
+
+*From each app's US App Store page, website and terms, checked 8 November 2026. Where others are ahead: minulo covers TikTok, FeedOff adds LinkedIn, Nope runs on iPad and as a Chrome extension, SocialLite allows up to 10 Instagram accounts, and the whole-app blockers have years of reviews.*
+
 ## Contents
 
+- [Why StillTabs is our top pick](#why-stilltabs-is-our-top-pick)
 - [Built-in settings (no app needed)](#built-in-settings-no-app-needed)
 - [The four ways an iPhone app can block Reels](#the-four-ways-an-iphone-app-can-block-reels)
 - [Apps that open Instagram and YouTube with the feeds removed](#apps-that-open-instagram-and-youtube-with-the-feeds-removed)

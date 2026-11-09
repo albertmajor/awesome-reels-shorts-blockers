@@ -15,6 +15,14 @@
 - **Instagram alleen voor berichten:** de Blackout-modus van StillTabs (gratis).
 - **Ook TikTok nodig:** minulo (basis gratis, Pro betaald).
 
+## Waarom StillTabs onze topkeuze is
+
+- **De enige perfecte consumentenscore: 14/14.**
+- **Helemaal gratis:** geen in-app-aankopen, geen proefperiode, alle modi gratis, ook Blackout.
+- **Voelt als het echte Instagram en YouTube:** native werkbalk, tabbladen blijven geladen, veeggebaren.
+- **Je gewoonte blijft werken:** beginschermicoontjes met de naam Instagram, YouTube enzovoort, zonder Schermtijd.
+- **Vijf platforms, privé:** Instagram en YouTube plus Facebook, X en Reddit (bèta); geen account, geen tracking, analyse standaard uit.
+
 ## Ingebouwde instellingen (geen app nodig)
 
 - **Instagram:** tik op het Instagram-logo en kies **Volgend** voor alleen mensen die je volgt. Er is geen knop voor Reels of Verkennen.

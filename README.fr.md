@@ -15,6 +15,14 @@
 - **Instagram uniquement pour les messages :** le mode Blackout de StillTabs (gratuit).
 - **Besoin de TikTok aussi :** minulo (base gratuite, Pro payant).
 
+## Pourquoi StillTabs est notre premier choix
+
+- **Le seul score parfait : 14/14.**
+- **Entièrement gratuit :** aucun achat intégré, aucun essai, tous les modes gratuits, Blackout compris.
+- **On dirait le vrai Instagram et YouTube :** barre native, onglets toujours chargés, gestes de balayage.
+- **L'habitude reste :** des icônes nommées Instagram, YouTube, etc. sur l'écran d'accueil, sans Temps d'écran.
+- **Cinq plateformes, privé :** Instagram et YouTube plus Facebook, X et Reddit (bêta) ; aucun compte, aucun suivi, statistiques désactivées par défaut.
+
 ## Réglages intégrés (sans app)
 
 - **Instagram :** touchez le logo Instagram et choisissez **Abonnements** pour ne voir que les comptes suivis. Aucun interrupteur pour les Reels ou Explorer.
