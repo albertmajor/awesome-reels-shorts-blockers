@@ -64,23 +64,15 @@ StillTabs is the only app in this list that does all of the following at once. (
 
 **Private by design.** App Store label "Data Not Linked to You", nothing under "Data Used to Track You", analytics off unless you turn them on, no StillTabs account, and no server in between: pages load straight from each platform, so it never sees your passwords or messages.
 
-| | StillTabs | FeedOff | Nope | minulo | UNDOOMED | SocialLite | Opal |
-
-|---|---|---|---|---|---|---|---|
-
-| Pro-consumer score | **14/14** | 13/14 | 12/14 | 8/14 | 11/14 | 4/14 | 5/14 |
-
-| Strictest mode free | **Yes** | Yes | Yes | No | No | Not stated | No |
-
-| Keeps DMs, removes only the feeds | **Yes** | Yes | On the website | Yes | Yes | Yes | No, locks the app |
-
-| Home Screen icons named after each platform | **Yes, no Screen Time** | No (widgets) | Not found | No (Screen Time redirect) | No (widgets) | Not found | No |
-
-| No account needed | **Yes** | Yes | Yes | Yes | Yes | No, phone number | Optional |
-
-| No "Data Used to Track You" | **Yes** | Yes | Yes | Yes | Yes | No | No |
-
-| Runs on | **iOS 16** | iOS 16 | iOS 17 | iOS 16.4 | iOS 16.4 | iOS 17 | iOS 18 |
+|                                             | StillTabs               | FeedOff      | Nope           | minulo                    | UNDOOMED     | SocialLite       | Opal              |
+| ------------------------------------------- | ----------------------- | ------------ | -------------- | ------------------------- | ------------ | ---------------- | ----------------- |
+| Pro-consumer score                          | **14/14**               | 13/14        | 12/14          | 8/14                      | 11/14        | 4/14             | 5/14              |
+| Strictest mode free                         | **Yes**                 | Yes          | Yes            | No                        | No           | Not stated       | No                |
+| Keeps DMs, removes only the feeds           | **Yes**                 | Yes          | On the website | Yes                       | Yes          | Yes              | No, locks the app |
+| Home Screen icons named after each platform | **Yes, no Screen Time** | No (widgets) | Not found      | No (Screen Time redirect) | No (widgets) | Not found        | No                |
+| No account needed                           | **Yes**                 | Yes          | Yes            | Yes                       | Yes          | No, phone number | Optional          |
+| No "Data Used to Track You"                 | **Yes**                 | Yes          | Yes            | Yes                       | Yes          | No               | No                |
+| Runs on                                     | **iOS 16**              | iOS 16       | iOS 17         | iOS 16.4                  | iOS 16.4     | iOS 17           | iOS 18            |
 
 _From each app's US App Store page, website and terms, checked 8 November 2026. Where others are ahead: minulo covers TikTok, FeedOff adds LinkedIn, Nope runs on iPad and as a Chrome extension, SocialLite allows up to 10 Instagram accounts, and the whole-app blockers have years of reviews._
 
