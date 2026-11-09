@@ -273,6 +273,8 @@ Yes, but most apps here are iPhone only. ScrollGuard and AppBlock have Android v
 
 - [apps.csv](https://github.com/albertmajor/awesome-reels-shorts-blockers/blob/main/data/apps.csv) - Every app, 33 columns, with the source pages for each row.
 - [score-checks.json](https://github.com/albertmajor/awesome-reels-shorts-blockers/blob/main/data/score-checks.json) - The 14 checks behind the score.
+- [Best apps to block Reels and Shorts on iPhone](https://stilltabs.com/compare/) - The same 19 apps as a web page, with prices and privacy labels (kept by the StillTabs team).
+- [Instagram without Reels, keep your DMs](https://stilltabs.com/guides/instagram-dms-only-app) - The apps that keep your messages, and how to set one up.
 
 ## About this list
 
