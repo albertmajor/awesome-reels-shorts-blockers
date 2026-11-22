@@ -128,7 +128,7 @@ Hide Reels and Shorts on the websites, in Safari only. DMs work on the website.
 ## Screen broadcast
 
 - [Scroll Less](https://apps.apple.com/us/app/id6741134096) - Spots Reels inside the official apps through an iOS screen broadcast, which has to keep running; also opens Instagram, YouTube and Reddit inside its own app. Premium $4.99 to $49.99. 6/14.
-- [Slowth](https://apps.apple.com/us/app/id6764140763) - Detects Instagram Reels and YouTube Shorts on-device while an optional iOS screen broadcast runs. Screen Time temporarily shields the whole app after detection, including access to DMs. See the [Slowth setup guide](https://malina.page/slowth/en-GB/support.html).
+- [Slowth](https://apps.apple.com/us/app/id6764140763) - Detects short videos on-device in supported apps such as Instagram, YouTube, Facebook and X while an optional iOS screen broadcast runs. Screen Time temporarily shields the whole app after detection, including access to DMs. See the [Slowth setup guide](https://malina.page/slowth/en-GB/support.html).
 
 ## Whole-app blockers (lock DMs too)
 
