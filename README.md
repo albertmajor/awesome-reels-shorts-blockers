@@ -44,7 +44,7 @@
 
 **You use Instagram and YouTube in Safari:** Nope or Slowth.
 
-**Keep the official apps:** Scroll Less, which blocks Reels in them while an iOS screen broadcast runs.
+**Keep the official apps:** Scroll Less or Slowth, which detect short videos while an iOS screen broadcast runs. Slowth temporarily shields the whole app when it detects selected content.
 
 **Block the whole app, not just Reels:** ScreenZen (free) or iPhone Screen Time.
 
@@ -98,7 +98,7 @@ iOS doesn't let one app change how another app looks, so every Reels blocker use
 | ------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | --------------------------- | ---------------------------------------------------------------------- |
 | **Own app with the platforms inside** | Opens Instagram, YouTube and others inside its own app, with Reels and Shorts removed before you see them                           | Keep working                | StillTabs, FeedOff, minulo, UNDOOMED, SocialLite, Dull, Fluid Friction |
 | **Safari extension**                  | Hides Reels and Shorts on the websites, in Safari only; switched on per site in Settings                                            | Work on the website         | Nope, Slowth, #blockit, ScrollGuard                                    |
-| **Screen broadcast**                  | You start an iOS broadcast (the screen-recording system) so the app can spot Reels inside the official apps; it has to keep running | Keep working                | Scroll Less (which also opens the sites inside its own app)            |
+| **Screen broadcast**                  | You start an iOS broadcast (the screen-recording system) so the app can spot Reels inside the official apps; it has to keep running | Varies by app; unavailable while the app is shielded | Scroll Less (also offers its own browser), Slowth (also offers a Safari extension) |
 | **Whole-app blocker**                 | Locks, delays or time-limits the entire app                                                                                         | Locked with everything else | Opal, one sec, ScreenZen, Screen Time                                  |
 
 ## Apps that open Instagram and YouTube with the feeds removed
@@ -121,13 +121,14 @@ Reels, Shorts and suggested posts are removed before you see them; your DMs keep
 Hide Reels and Shorts on the websites, in Safari only. DMs work on the website.
 
 - [Nope](https://apps.apple.com/us/app/id6768192042) - Instagram and YouTube, 17 toggles, Chrome extension too. No in-app purchases. Data Not Collected. 12/14.
-- [Slowth](https://apps.apple.com/us/app/id6764140763) - Short-video sites in Safari, free 24-hour Strict Mode, optional tips, open source. Data Not Collected. 13/14.
+- [Slowth](https://apps.apple.com/us/app/id6764140763) - Short-video filtering in Safari and an optional [screen broadcast mode](#screen-broadcast), free 24-hour Strict Mode, optional tips, open source. Data Not Collected. 13/14.
 - [ScrollGuard](https://apps.apple.com/us/app/id6754183872) - Free tier with a cap on filters, Pro from $3.99. iOS 18. 9/14.
 - [#blockit](https://apps.apple.com/us/app/id1492879257) - After a 7-day trial, $0.99/month or $3.99/year. Data Not Collected. 8/14.
 
 ## Screen broadcast
 
 - [Scroll Less](https://apps.apple.com/us/app/id6741134096) - Spots Reels inside the official apps through an iOS screen broadcast, which has to keep running; also opens Instagram, YouTube and Reddit inside its own app. Premium $4.99 to $49.99. 6/14.
+- [Slowth](https://apps.apple.com/us/app/id6764140763) - Detects short videos on-device in supported apps such as Instagram, YouTube, Facebook and X while an optional iOS screen broadcast runs. Screen Time temporarily shields the whole app after detection, including access to DMs. See the [Slowth setup guide](https://malina.page/slowth/en-GB/support.html).
 
 ## Whole-app blockers (lock DMs too)
 
@@ -154,7 +155,7 @@ Sorted by type, then by how much is free. Prices are the in-app purchase list on
 | Sociano            | Own browser plus app blocker                                                                 | Free download                    | Pro $9.99 a week or $39.99 a year                | **Data Linked to You**     | Not checked    |
 | Scroll Less        | Screen broadcast in the official apps, plus Instagram, YouTube and Reddit inside its own app | Free download                    | Premium $4.99 to $49.99                          | Data Not Linked to You     | Yes            |
 | Nope               | Safari extension (its website says the app can also open Instagram and YouTube itself)       | Free                             | None                                             | Data Not Collected         | On the website |
-| Slowth             | Safari extension                                                                             | Free download                    | $0.99 to $8.99 (including a $8.99 Climbing Pass) | Data Not Collected         | On the website |
+| Slowth             | Safari extension; optional screen broadcast in the official apps                             | Free download                    | Optional tips, $0.99 to $8.99 (unlock nothing) | Data Not Collected         | On the website; in the app when not shielded |
 | #blockit           | Safari extension                                                                             | 7-day trial                      | $0.99 a month or $3.99 a year                    | Data Not Collected         | On the website |
 | ScrollGuard        | Safari extension (iPhone)                                                                    | Free download                    | Pro from $3.99                                   | Data Not Linked to You     | On the website |
 | ScreenZen          | Pauses and limits whole apps                                                                 | Free                             | Optional tips                                    | Data Not Linked to You     | No             |
@@ -191,7 +192,7 @@ How an app treats you, separate from how well it blocks: one point for each of 1
 
 What the checks mean: the thing you installed it for is free, and so is its strictest mode; no weekly billing or trial that turns into a charge; no ads; no "Data Used to Track You" label; analytics off unless you turn them on; the app's website loads no advertising trackers; a privacy policy you can read in English; its own terms of service; no arbitration clause or class-action waiver; no account needed; an App Store update in the last 90 days, because a blocker that isn't maintained stops working when Instagram and YouTube change; and support for iOS 16, so older iPhones aren't left out.
 
-A high score doesn't make an app the right one for you: Nope scores 12/14 and covers only Instagram and YouTube, mainly as a Safari extension, and Scroll Less is the only option that works in the official apps, as long as its screen broadcast keeps running. Use it together with the type table above.
+A high score doesn't make an app the right one for you: Nope scores 12/14 and covers only Instagram and YouTube, mainly as a Safari extension, while Scroll Less and Slowth can detect short videos in the official apps using an active screen broadcast. Use it together with the type table above.
 
 ## How to choose
 
@@ -261,7 +262,7 @@ These look relevant but we haven't verified prices and labels yet. Corrections a
 If "free" means nothing to buy at all: StillTabs or FeedOff, which both keep your DMs, or Nope if you use Safari. minulo and Fluid Friction are free for basic blocking and sell extras.
 
 **Can an app remove Reels inside the real Instagram app?**
-Not directly; iOS doesn't allow it. Scroll Less comes closest by watching the screen through a broadcast; it also offers the websites inside its own app. The other apps show Instagram inside their own app instead.
+Not directly; iOS does not let one app change another app's interface. Scroll Less and Slowth use a screen broadcast to detect Reels in the official Instagram app. Slowth temporarily blocks the whole app on detection; it does not remove the Reels tab.
 
 **Do these apps see my Instagram password?**
 In apps of the "own app" type you sign in on the platform's own page inside the app. Check each app's privacy policy; StillTabs, for example, runs no server in between, so passwords and messages don't pass through it.
